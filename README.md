@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pankajsahcse
-- 👀 I’m interested in ...Computer 
+- 👀 I’m interested in ...computer Science 
 - 🌱 I’m currently learning ...computer languages 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
