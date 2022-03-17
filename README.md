@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - https://www.instagram.com/pankaj_sah_7/
-- Instagram pankaj_sah_7
+-
 
 <!---
 pankajsahcse/pankajsahcse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
