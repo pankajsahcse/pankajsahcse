@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pankajsahcse/pankajsahcse/output/snake.svg" alt="Snake animation" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7VNP7iWS--/c_imagga_scale,f_auto,fl_progressive,h_720,q_66,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="Snake animation" />
 
 ###
