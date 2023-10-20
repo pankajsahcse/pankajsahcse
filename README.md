@@ -52,9 +52,7 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/pankajsahcse/pankajsahcse/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
