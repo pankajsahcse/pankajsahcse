@@ -3,13 +3,8 @@
 - 🌱 I’m currently learning ...computer languages 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- https://www.instagram.com/pankaj_sah_7/   This is my instagram account.
-- https://www.linkedin.com/in/pankaj-kumar-sah-8a976b23a/ This is Linked account.
 - https://www.facebook.com/NYCRAAZ This is Facebook account.
 - https://www.youtube.com/channel/UC37TbVxTETuQvPxBETPlCzw    This is my youtube channel.
-
-
-
 
 ###
 
