@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Pankaj and I'm a Software Developer from India.</h2>
-<h3 align "left" > I'm interesed in Computer Science. </h3>
+<h3 align "left" > I'm interesed in Computer Science.(Full Stact Java Developer) </h3>
 
 
 ###
